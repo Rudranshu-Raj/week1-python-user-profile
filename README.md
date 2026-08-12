@@ -43,4 +43,4 @@ Install Python 3 on your computer.
 Clone this repository using:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Rudranshu-Raj/week1-python-user-profile/tree/main
