@@ -9,7 +9,7 @@ Hobby: Coding
 
 Expected Output:
 Welcome Rudranshu!
-You are 21 years old and love Coding.
+You are 21 years old and loves Coding.
 
 Status: PASS
 
@@ -23,7 +23,7 @@ Hobby: Cricket
 
 Expected Output:
 Welcome Sid!
-You are 23 years old and love Cricket.
+You are 23 years old and loves Cricket.
 
 Status: PASS
 
@@ -37,6 +37,6 @@ Hobby: Painting
 
 Expected Output:
 Welcome Sneha!
-You are 19 years old and love Painting.
+You are 19 years old and loves Painting.
 
 Status: PASS
