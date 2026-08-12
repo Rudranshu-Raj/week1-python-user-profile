@@ -3,13 +3,13 @@ WEEK 1 PYTHON PROJECT - TEST CASES
 TEST CASE 1
 -----------
 Input:
-Name: Rudranshu
-Age: 21
+Name: Rudra
+Age: 20
 Hobby: Coding
 
 Expected Output:
 Welcome Rudranshu!
-You are 21 years old and you enjoy Coding.
+You are 21 years old and love Coding.
 
 Status: PASS
 
@@ -23,7 +23,7 @@ Hobby: Cricket
 
 Expected Output:
 Welcome Sid!
-You are 23 years old and you enjoy Cricket.
+You are 23 years old and love Cricket.
 
 Status: PASS
 
@@ -37,6 +37,6 @@ Hobby: Painting
 
 Expected Output:
 Welcome Sneha!
-You are 19 years old and you enjoy Painting.
+You are 19 years old and love Painting.
 
 Status: PASS
